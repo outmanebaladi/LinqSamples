@@ -1,0 +1,11 @@
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.exe
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.deps.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.runtimeconfig.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.runtimeconfig.dev.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.dll
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\bin\Debug\netcoreapp3.0\LinqSamples.pdb
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\obj\Debug\netcoreapp3.0\LinqSamples.csprojAssemblyReference.cache
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\obj\Debug\netcoreapp3.0\LinqSamples.AssemblyInfoInputs.cache
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\obj\Debug\netcoreapp3.0\LinqSamples.AssemblyInfo.cs
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\obj\Debug\netcoreapp3.0\LinqSamples.dll
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\LinqSamples\obj\Debug\netcoreapp3.0\LinqSamples.pdb
