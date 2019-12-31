@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Queries
 {
@@ -15,10 +16,14 @@ namespace Queries
                 new Movie(){ Title ="Star Wars V" , Rating = 8.7f, Year = 1980 }
             };
 
-            var latestMovies = movies.Filter(m => m.Year > 2000);
-            foreach(var m in latestMovies)
+            var query = movies.Where(m => m.Year > 2000).ToList();
+
+            Console.WriteLine(query.Count());
+
+            var enumerator = query.GetEnumerator();
+            while (enumerator.MoveNext())
             {
-                Console.WriteLine(m.Title);
+                Console.WriteLine(enumerator.Current.Title);
             }
         }
     }
