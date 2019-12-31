@@ -1,0 +1,11 @@
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.exe
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.deps.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.runtimeconfig.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.runtimeconfig.dev.json
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.dll
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\bin\Debug\netcoreapp3.0\Queries.pdb
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\obj\Debug\netcoreapp3.0\Queries.csprojAssemblyReference.cache
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\obj\Debug\netcoreapp3.0\Queries.AssemblyInfoInputs.cache
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\obj\Debug\netcoreapp3.0\Queries.AssemblyInfo.cs
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\obj\Debug\netcoreapp3.0\Queries.dll
+C:\Users\Outmane.BALADI\source\repos\LinqSamples\Queries\obj\Debug\netcoreapp3.0\Queries.pdb
